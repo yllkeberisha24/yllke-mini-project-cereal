@@ -12,6 +12,7 @@ Simple reproducible analysis of cereal nutrition data.
 - `data/raw/`: raw dataset
 - `output/figures/`: generated plots
 - `environment.yml`: Conda environment
+Running `python code/analysis.py` will generate the figure `output/sugar_histogram.png` showing the distribution of sugar content in cereals.
 
 ## Environment
 ```bash
